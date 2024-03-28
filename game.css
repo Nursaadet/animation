@@ -37,7 +37,7 @@ body {
   position: absolute;
   bottom: 52px;
   left: 33%;
-  z-index: 1;
+  z-index:1;
   animation: hop-up 0.5s linear alternate infinite;
 }
 
